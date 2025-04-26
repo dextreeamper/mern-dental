@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "dexter",
+    "DB_PASSWORD": "rhB0LjA5bf9OEmQY",
+    "DB_NAME": "dental",
+    "JWT_KEY": "supersecret_dont_share"
+  }
+}
